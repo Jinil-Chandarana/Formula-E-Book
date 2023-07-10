@@ -1,5 +1,5 @@
 # Formula-E-Book
-integrated with firebase, google firestore and hive
+integrated with google firebase, firestore and Hive
 
 # Admin
 - can add, delete or edit schools, majors, and courses.
